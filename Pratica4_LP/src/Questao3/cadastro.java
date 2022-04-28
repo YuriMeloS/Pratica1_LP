@@ -26,7 +26,7 @@ public class cadastro {
 			case 1:
 				
 								
-				for(int i = 0; i<12; i++)
+				for(int i = 0; i<=10; i++)
 				{							
 					System.out.println("Item: ");
 					item = entrada.next();
